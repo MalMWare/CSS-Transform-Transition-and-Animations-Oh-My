@@ -1,10 +1,11 @@
 button {
     background-color:ghostwhite;
-    transition: 0.2s;
-    color:black
+    transition: 2s;
+    color:black;
+    border: none;
 }
 button:hover {
     background-color: cornflowerblue;
-    opacity: 0.9;
+    opacity: 1;
     color:white;
 }

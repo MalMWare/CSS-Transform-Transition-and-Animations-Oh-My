@@ -1,4 +1,4 @@
 main {
-    transform: skewY(-10deg) ;
+    transform: skewY(-10deg) rotate(-1deg);
     font-weight: bolder;
 }
